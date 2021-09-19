@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_E_Book_V10.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_E_Book_V10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/Android_E_Book_V10.SmoothCheckBox-master.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/Android_E_Book_V10.SmoothCheckBox-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_E_Book_V10.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_E_Book_V10.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandabletextview/Android_E_Book_V10.expandabletextview.iml" filepath="$PROJECT_DIR$/.idea/modules/expandabletextview/Android_E_Book_V10.expandabletextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/folioreader/Android_E_Book_V10.folioreader.iml" filepath="$PROJECT_DIR$/.idea/modules/folioreader/Android_E_Book_V10.folioreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Android_E_Book_V10.imagepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Android_E_Book_V10.imagepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/Android_E_Book_V10.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/Android_E_Book_V10.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rating-view/Android_E_Book_V10.rating-view.iml" filepath="$PROJECT_DIR$/.idea/modules/rating-view/Android_E_Book_V10.rating-view.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+﻿NEW BUYERS CODE: FOR FIRST TIME BUYER
+NEW BUYERS DON'T NEED TO DO ANYTHING WITH UPDATE FOLDER.
+
+If you want to update your old Android EBook App panel you have to follow this steps.
+
+Note: This update is only for users of previous version 6 July 2020
+
+**** It is always best to always take a backup before updating. ****
+ 
+Step 1
+Extract the files from the UPDATE archive you have downloaded from CodeCanyon.
+
+Step 2
+Imoprt update.sql file into your old database.  
+
+(NOTE: Not delete your old database. Just import update.sql file into old database.) 
+
+Step 3
+Upload all files and folder from update_files folder to the directory where you installed Android EBook App on your server.
+Make sure you �overwrite� the existing files with the same name. Your FTP software might prompt for this choice.
+ 
+That's it.
+
+Thank you for purchase the Android EBook App.
+
+Still if you have any questions you can whatsapp: +919227777522 or email on info@viaviweb.com
+ 
