@@ -1,6 +1,7 @@
 # Andriod-E-Book (Source Code + Admin-Panel)
 
-Promblem is app is not connected to website.
+Promblem is Front End -APP is not connected to website.
+Backend means Website is working well and good . 
 
 Purchase Link - https://rzp.io/l/CIcQShvq
 
