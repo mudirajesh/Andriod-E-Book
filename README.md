@@ -1,4 +1,4 @@
-# Andriod-E-Book (Source Code + Admin-Panel)
+# Andriod E-Book (Source Code + Admin-Panel)
 
 Promblem is Front End -APP is not connected to website.
 Back End means Website is working well and good . 
